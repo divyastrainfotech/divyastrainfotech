@@ -1,6 +1,6 @@
 Welcome to Divystra 🚀
 
-Hey there! Welcome to Divystra, where big dreams meet bold ideas (and a bit of caffeine).
+Where big dreams meet bold ideas (and a bit of caffeine).
 
 We’re a small team just starting our adventure in the IT world. Our specialty? Crafting mobile apps that aim to make life a little easier—and a lot better.
 
