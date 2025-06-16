@@ -1,4 +1,4 @@
-Welcome to Divystra 🚀
+Welcome to Divyastra 🚀
 
 Where big dreams meet bold ideas (and a bit of caffeine).
 
